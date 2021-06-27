@@ -1,2 +1,0 @@
-C:\Users\Stummps\source\repos\SingleFunctionTest\x64\Debug\LogNormalBackgroundSubtractionCuda.exe
-C:\Users\Stummps\source\repos\SingleFunctionTest\x64\Debug\LogNormalBackgroundSubtractionCuda.pdb
